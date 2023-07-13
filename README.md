@@ -1,7 +1,7 @@
 # Hello!!  :wave:
 
 ### About Me  
-My name is Azmaeen Galib Hassan. I am a beginner level forntend developer. <br>Currently diving in and exploring the web3 space to stay updated with the latest advancements in blockchain technology. <br> Learning Solidity for Smart Contract Development work.
+My name is Azmaeen Galib Hassan. I am a beginner level FrontEnd developer. <br>Currently diving in and exploring the web3 space to stay updated with the latest advancements in blockchain technology. <br> Learning Solidity for Smart Contract Development work.
 <br>
 <br>
 **Few things I know:**  
