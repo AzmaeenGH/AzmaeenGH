@@ -18,7 +18,6 @@ My name is Azmaeen Galib Hassan. <br>Currently diving in and exploring the web3 
 
 ###  Contact Me:
 [![Azmaeen's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmaeen-gh/)
-[![Azmaeen's Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AzmaeenGH)
 <br>
 If you have any questions, collaboration opportunities, or simply want to connect, please feel free to reach out to me. <br>
 I'm always open to engaging in interesting discussions and projects related to blockchain and smart contract development.<br>
