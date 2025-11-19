@@ -1,14 +1,15 @@
 # Hello!!  :wave:
 
 ### About Me  
-My name is Azmaeen Galib Hassan. <br>Currently diving in and exploring the web3 space to stay updated with the latest advancements in blockchain technology. <br> Learning Solidity for Smart Contract Security and Auditing work.
+My name is Azmaeen Galib Hassan. <br>Currently {work in progress}
 
 <br>
 <br>
 **Few things I know:**  
 
-
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
+{work in progress}
 
 <br><br>
   
@@ -19,11 +20,11 @@ My name is Azmaeen Galib Hassan. <br>Currently diving in and exploring the web3 
 [![Azmaeen's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmaeen-gh/)
 <br>
 If you have any questions, collaboration opportunities, or simply want to connect, please feel free to reach out to me. <br>
-I'm always open to engaging in interesting discussions and projects related to blockchain and smart contract development.<br>
+I'm always open to engaging in interesting discussions and projects related to Artificial Intelligence.<br>
 <br>
 
 
-:rocket: :rocket: _Let's build the decentralized future together!_ :rocket: :rocket: 
+:rocket: :rocket: _Let's build the decentralized  {work in progress} future together!_ :rocket: :rocket: 
 
 
 
