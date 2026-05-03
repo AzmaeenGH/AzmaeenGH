@@ -1,3 +1,57 @@
+# Hi there, I'm Azmaeen Galib Hassan! 👋
+
+### 🚀 SQA Engineer
+I am a STEM student specializing in **Software Quality Assurance**. I focus on the full testing lifecycle, from manual requirement analysis to building automated testing frameworks using **JavaScript**.
+
+---
+
+### 🛠️ Technical Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Testing Methodologies** | Manual Testing, API Testing, Regression Testing, Test Case Design, Bug Life Cycle |
+| **Automation (Learning)** | Playwright, Selenium WebDriver |
+| **Testing Tools** | Postman, Chrome DevTools, Git/GitHub, Virtual Machines (VM), Basic Linux |
+| **Programming** | JavaScript (ES6+), HTML5/CSS3, Logic Building |
+
+---
+
+### 📂 SQA Portfolio Repositories
+
+*   **[manual-qa-test-suites](https://github.com/AzmaeenGH/manual-qa-test-suites)** – Professional test documentation including Test Plans and Bug Reports for web platforms.
+*   **[api-testing-postman-js](https://github.com/AzmaeenGH/api-testing-postman-js)** – API validation collections with automated JavaScript assertions.
+*   **[web-automation-playwright-js](https://github.com/AzmaeenGH/web-automation-playwright-js)** – *(In Progress)* E2E automation framework using Playwright.
+*   **[selenium-webdriver-javascript](https://github.com/AzmaeenGH/selenium-webdriver-javascript)** – *(In Progress)* Web automation using Selenium WebDriver and JS.
+*   **[database-testing-sql](https://github.com/AzmaeenGH/database-testing-sql)** – *(In Progress)* SQL scripts for schema and data integrity verification.
+
+---
+
+### 📈 Current Learning Focus
+- 🏗️ Deepening proficiency in **Playwright** for modern web automation.
+- 🗄️ Mastering **SQL** for robust database-level testing.
+- 🔄 Integrating automated tests into **CI/CD pipelines** via GitHub Actions.
+
+---
+
+### 📊 GitHub Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzmaeenGH&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmaeenGH&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+*   **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+*   **Location:** Bangladesh 🇧🇩
+
+---
+*"Quality is not an act, it is a habit."*
+
+
+
+
+
+
+<--
 # Hello!!  :wave:
 
 ### About Me  
@@ -25,7 +79,7 @@ I'm always open to engaging in interesting discussions and projects related to A
 
 
 :rocket: :rocket: _Let's build the decentralized  {work in progress} future together!_ :rocket: :rocket: 
-
+-->
 
 
 
