@@ -34,8 +34,12 @@ I am a STEM student specializing in **Software Quality Assurance**. I focus on t
 ---
 
 ### 📊 GitHub Activity
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzmaeenGH&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmaeenGH&layout=compact&theme=radical)
+![Metrics](https://metrics.lecoq.io/AzmaeenGH?template=classic&base.header=0&base.activity=0&base.community=0&repositories=1&metadata=1)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzmaeenGH&theme=radical)
 
 ---
 
@@ -51,7 +55,7 @@ I am a STEM student specializing in **Software Quality Assurance**. I focus on t
 
 
 
-<--
+<!--
 # Hello!!  :wave:
 
 ### About Me  
@@ -80,6 +84,7 @@ I'm always open to engaging in interesting discussions and projects related to A
 
 :rocket: :rocket: _Let's build the decentralized  {work in progress} future together!_ :rocket: :rocket: 
 -->
+
 
 
 
