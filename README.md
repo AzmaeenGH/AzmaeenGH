@@ -14,6 +14,11 @@ I am a STEM student specializing in **Software Quality Assurance**. I focus on t
 | **Testing Tools** | Postman, Chrome DevTools, Git/GitHub, Virtual Machines (VM), Basic Linux |
 | **Programming** | JavaScript (ES6+), HTML5/CSS3, Logic Building |
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ---
 
 ### 📂 SQA Portfolio Repositories
@@ -38,6 +43,7 @@ I am a STEM student specializing in **Software Quality Assurance**. I focus on t
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzmaeenGH&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmaeenGH&layout=compact&theme=radical)
 ![Metrics](https://metrics.lecoq.io/AzmaeenGH?template=classic&base.header=0&base.activity=0&base.community=0&repositories=1&metadata=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmaeenGH&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzmaeenGH&theme=radical)
 
