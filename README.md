@@ -50,7 +50,7 @@ I am a STEM student specializing in **Software Quality Assurance**. I focus on t
 ---
 
 ### 📫 Let's Connect!
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+*   **LinkedIn:** [https://www.linkedin.com/in/azmaeen-gh/](https://www.linkedin.com/in/azmaeen-gh/)
 *   **Location:** Bangladesh 🇧🇩
 
 ---
