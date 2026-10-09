@@ -28,20 +28,12 @@ Final-year CSE student at Canadian University of Bangladesh (graduating January 
 
 ---
 
-### Featured Project
-
-**[Demo Web Shop: UI and API Test Automation](https://github.com/AzmaeenGH/OSTAD_SQA19__Project_Assignment)**
-- 6 end-to-end Playwright tests (Page Object Model) on Chromium and Firefox: invalid login, registration, login, add to cart, product search, checkout with order confirmation.
-- Postman collection (4 requests, 12 assertions) run via Newman against JSONPlaceholder `/users` (GET and PUT).
-- Playwright HTML and Allure reports with screenshots on every test.
-
----
-
-### Other Repositories
-
-*   **[manual-qa-test-suites](https://github.com/AzmaeenGH/manual-qa-test-suites)**: Test plans and bug reports for web platforms.
-*   **[api-testing-postman-js](https://github.com/AzmaeenGH/api-testing-postman-js)**: API validation collections with automated JavaScript assertions.
-*   **[database-testing-sql](https://github.com/AzmaeenGH/database-testing-sql)**: *(In Progress)* SQL scripts for schema and data integrity verification.
+### Projects
+ 
+| Project | What it covers | Stack |
+| :--- | :--- | :--- |
+| [demo-web-shop-test-automation](https://github.com/AzmaeenGH/demo-web-shop-test-automation) | 6 end-to-end UI tests (invalid login, registration, login, add to cart, product search, checkout) on Chromium, Firefox and WebKit. Allure and Playwright HTML reports. | Playwright, JavaScript, Page Object Model, Allure |
+| [jsonplaceholder-api-testing](https://github.com/AzmaeenGH/jsonplaceholder-api-testing) | Postman collection run via Newman: 4 requests, 12 assertions covering GET and PUT on `/users`, chained requests, dynamic request data. | Postman, Newman, JavaScript |
 
 ---
 
@@ -50,12 +42,6 @@ Final-year CSE student at Canadian University of Bangladesh (graduating January 
 - B.Sc. in Computer Science and Engineering, Canadian University of Bangladesh (Expected Jan 2027)
 - SQA Manual & Automation Testing, Batch 19, OSTAD (Mar 2026 to Oct 2026)
 - JavaScript Certification, freeCodeCamp (Ongoing)
-
----
-
-### Current Learning Focus
-- SQL for database-level testing.
-- CI/CD integration of automated tests with GitHub Actions.
 
 ---
 
