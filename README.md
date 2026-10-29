@@ -11,12 +11,11 @@ Final-year CSE student at Canadian University of Bangladesh (graduating January 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **UI Automation** | Playwright, Page Object Model, Allure |
-| **API Testing** | REST API, Postman, Newman, JavaScript assertions |
-| **Manual Testing** | Test Case Design, Bug Reporting, Regression Testing, STLC |
-| **Tools** | Git/GitHub, Node.js, Chrome DevTools, Basic Linux |
-| **Programming** | JavaScript (ES6+), HTML5, CSS3 |
-| **Learning** | SQL |
+| **Automation** | Playwright, Page Object Model, Allure |
+| **API Testing** | REST API, Postman, Newman |
+| **Manual Testing** | STLC, Test Case Design |
+| **Tools** | Git, GitHub, Node.js, Linux |
+| **Programming** | JavaScript (ES6+) |
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
